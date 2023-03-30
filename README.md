@@ -1,8 +1,8 @@
 # huffman-encode-decode
 
-Lorsque le programme prend deux paramètres, il compresse un texte et produire un fichier contenant le texte compressé précédé de l’entête de huffman permettant de le décompresser
-paramètre 1 : chemin du fichier à compresser
-paramètre 2 : chemin du fichier à produire
+Lorsque le programme prend deux paramètres, il compresse un texte et produire un fichier contenant le texte compressé précédé de l’entête de huffman permettant de le décompresser.<br>
+  paramètre 1 : chemin du fichier à compresser<br>
+  paramètre 2 : chemin du fichier à produire
 
 Exemple d’appel : huffman.exe ./fichierACompresser ./fichierResultat
 
